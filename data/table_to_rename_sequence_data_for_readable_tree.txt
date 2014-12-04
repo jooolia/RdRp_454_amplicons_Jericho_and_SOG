@@ -1,0 +1,69 @@
+Name_for_tree	Name_in_alignment	group	Location
+JPB	YP_001429583 hypothetical protein JP-B_gp1 [Marine RNA virus JP-B] gi|147743161|gb|ABQ50601.1| unknown [Marine RNA virus JP-B]	Jericho	
+JPA	YP_001429581 hypothetical protein JP-A_gp1 [Marine RNA virus JP-A] gi|1477431 58|gb|ABQ50599.1| unknown [Marine RNA virus JP-A]	Jericho	
+CRNAV2	BAK40203 putative replication related protein [Chaetoceros sp. RNA virus 2]	unknown	
+CsrRNAV	gi|224923894|ref|YP_002647032.1| non-structural polyprotein [Chaetoceros socialis f. radians RNA virus 01]	Bacillarnaviridae	
+AssRNAV	BAE47143	Labyrnaviridae	
+RsRNAV	BAE79742 polyprotein [Rhizosolenia setigera RNA virus]	Bacillarnaviridae	
+MCDV	YP_004063985 non-structural polyprotein [Mud crab dicistrovirus] gi|313666842 |gb|ADR72923.1| non-structural polyprotein [Mud crab dicistrovirus]	Dicistroviridae	
+HaRNAV	HARVS263gp1_-_2943315_-_gene_translation	Marnaviridae	
+CtRNAV	CtRNAV replicase polyprotein [Chaetoceros tenuissimus RNA virus]	Bacillarnaviridae	
+uncultured_RNA_virus_1	gi|157280772|gb|ABV29319.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_2	gi|33520525|gb|AAQ21156.1|	environmental	Jericho Beach
+uncultured_RNA_virus_3	gi|157280768|gb|ABV29317.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_4	gi|157280770|gb|ABV29318.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_5	gi|568801536|gb|AHE37871.1|	environmental	Hawaii (uncertain)
+uncultured_RNA_virus_6	gi|157280786|gb|ABV29326.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_7	gi|157280774|gb|ABV29320.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+Cricket_paralysis_virus-Dicistro	gi|21321709|ref|NP_647481.1|	Dicistroviridae	
+Kashmir_bee_virus_Dicistro	gi|30793780|ref|NP_851403.1|	Dicistroviridae	
+Taura syndrome virus_Dicistro	gi|14701765|gb|AAK72220.1|	Dicistroviridae	
+Plautia_stali_intestine_virus_Dicistro	gi|2344757|dbj|BAA21898.1|	Dicistroviridae	
+Himetobi_P_virus_Dicistro	gi|20451019|ref|NP_620560.1|	Dicistroviridae	
+Black_queen_cell_virus_Dicistro	gi|20451022|ref|NP_620564.1|	Dicistroviridae	
+Triatoma_virus_Dicistro	gi|6003485|gb|AAF00472.1|	Dicistroviridae	
+Navel_orange_infectious_mottling_virus_Secovirdae	gi|4210474|dbj|BAA74537.1|	Secoviridae	
+Strawberry_mottle_virus_Secoviridae	gi|25014020|ref|NP_733954.1|	Secoviridae	
+Cherry_rasp_leaf_virus_Secovirdae	gi|50399319|emb|CAF21713.1|	Secoviridae	
+Maize_chlorotic_dwarf_virus_Secoviridae	gi|38224698|gb|AAR14150.1|	Secoviridae	
+Parsnip_yellow_fleck_virus_Secoviridae	gi|464431|sp|Q05057|POLG_PYFV1	Secoviridae	
+Cowpea_mosaic_virus_strain_Secoviridae	gi|138362|sp|P03600|VGNB_CPMV	Secoviridae	
+Broad_bean_wilt_virus_2_Secoviridae	gi|13516401|dbj|BAB40439.1|	Secoviridae	
+Tobacco_ringspot_virus_strain_Secoviridae	gi|50401020|sp|Q88893|POL1_TRSVB	Secoviridae	
+Grapevine_fanleaf_virus_Secoviridae	gi|130392|sp|P29149|POL1_GFLV	Secoviridae	
+Tomato_ringspot_virus_Secoviridae	gi|50403733|sp|P29150|POL1_TORVR	Secoviridae	
+Blackcurrant_reversion_virus_Secoviridae	gi|50400782|sp|Q8V5E0|POL1_BRAV	Secoviridae	
+Grapevine_chrome_mosaic_virus_Secoviridae	gi|130391|sp|P13025|POL1_GCMV	Secoviridae	
+Raspberry_ringspot_virus_strain_cherry_Secoviridae	gi|50400736|sp|Q6W8W4|POL1_RRVC	Secoviridae	
+Sacbrood_virus_Iflaviridae	gi|18766569|gb|AAL79021.1|	Iflaviridae	
+Aphid_lethal_paralysis_virus_Dicistro	gi|24431319|gb|AAN61470.1|	Dicistroviridae	
+Rhopalosiphum_padi_virus_Dicistro	gi|2911299|gb|AAC95509.1|	Dicistroviridae	
+HaRNAV_clustered	gi|33520549|gb|AAQ21168.1|	Marnaviridae	
+uncultured_RNA_virus_8	gi|157280780|gb|ABV29323.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_9	gi|157280788|gb|ABV29327.1|	environmental	"USA: California, Monterey Bay"
+uncultured_RNA_virus_10	gi|568801494|gb|AHE37850.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_11	gi|157280776|gb|ABV29321.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_12	gi|157280778|gb|ABV29322.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_13	gi|568801516|gb|AHE37861.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_14	gi|568801616|gb|AHE37911.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_15	gi|568801508|gb|AHE37857.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_16	gi|568801542|gb|AHE37874.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_17	gi|568801612|gb|AHE37909.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_18	gi|568801576|gb|AHE37891.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_19	gi|568801562|gb|AHE37884.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_20	gi|568801526|gb|AHE37866.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_21	gi|568801476|gb|AHE37841.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_22	gi|568801560|gb|AHE37883.1|	environmental	Hawaii(uncertain)
+uncultured_RNA_virus_23	gi|157280744|gb|ABV29305.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_24	gi|157280758|gb|ABV29312.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_25	gi|157280748|gb|ABV29307.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_26	gi|157280746|gb|ABV29306.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_27	gi|157280742|gb|ABV29304.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_28	gi|157280766|gb|ABV29316.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_29	gi|157280756|gb|ABV29311.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_30	gi|157280762|gb|ABV29314.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_31	gi|157280750|gb|ABV29308.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_32	gi|157280760|gb|ABV29313.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_33	gi|157280764|gb|ABV29315.1|	environmental	"USA: Hawaii, Kane'ohe Bay, Oahu"
+uncultured_RNA_virus_34	gi|33520545|gb|AAQ21166.1|	environmental	Jericho Beach
+uncultured_RNA_virus_35	gi|33520539|gb|AAQ21163.1|	environmental	Jericho Beach
