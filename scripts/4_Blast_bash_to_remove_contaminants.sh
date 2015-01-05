@@ -5,8 +5,8 @@
 
 ## directory containing NCBI databases
 DB_DIR=/Data/blastdb
-IN_DIR2=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97
-OUT_DIR=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast
+IN_DIR2=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97
+OUT_DIR=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast
 SCRIPT_DIR=./perl_scripts
 
 mkdir -p $OUT_DIR

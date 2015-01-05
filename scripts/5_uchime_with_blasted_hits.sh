@@ -11,8 +11,8 @@ ABSKEW=2       # Abundance skew for de novo chimera filtering
 UCHIME_REFDB=/Data/Julia/qiime/PicornaLikedb.fasta #RefDB for UCHIME
 u=usearch
 
-input=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/denoise_blastnt_hit_with_no_hit_added_back_manually.fasta
-outdir=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/chimera_check
+input=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/denoise_blastnt_hit_with_no_hit_added_back_manually.fasta
+outdir=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/chimera_check
 mkdir -p $outdir
 
 

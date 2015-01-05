@@ -1,17 +1,12 @@
 # Files to run complete analysis
 
-
-## could pass as argument to all scripts? then could ensure portability??
-## could pass as : $1 
-## look at this again. 
-## is there a way to define a directory and then use it in all of the files?
-## to be run in "scripts/"
+mkdir -p ../results
 
 bash 1_Split_libraries_and_Denoise_at_97.sh
 
 bash 2_reinflate_after_denoising.sh
 
-Denoised_dir=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97
+Denoised_dir=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97
 
 ## usage ./uchime.bash input.fasta outputdir
 bash 3_uchime.sh $Denoised_dir/denoised_seqs.fasta $Denoised_dir/Chimera_checked

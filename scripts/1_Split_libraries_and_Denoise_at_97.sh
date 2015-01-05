@@ -7,16 +7,17 @@
 ## -qiime commands do not work consistently with relative paths so it is necessary to use absolute paths when using this software suite. 
 
 
-data_dir=/home/labop/Data/Julia/454_Data
+data_dir=../data
 
 # Split libraries using reverse primer
 mapping_file=$data_dir/Mapping_file_RdRp_rev.txt
 
+## Data files are available on NCBI SRA
 fna_files=$data_dir/TCA_454Reads_1.fna,$data_dir/454_Data/TCA_454Reads_2.fna,$data_dir/MMMV4/TCA_454Reads_1.fna,$data_dir/MMMV4/TCA_454Reads_2.fna
 
 quality_files=$data_dir/TCA_454Reads_1.qual,$data_dir/TCA_454Reads_2.qual,$data_dir/MMMV4/TCA_454Reads_1.qual,$data_dir/MMMV4/TCA_454Reads_2.qual
 
-split_library_output=/home/labop/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/
+split_library_output=../results/split_libraries_output/AllMids9August2012/Reverse/
 
 echo "Splitting libraries"
 

@@ -6,8 +6,8 @@
 
 
 FGS_DIR=/Data/software/FragGeneScan1.16
-IN_DIR=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/chimera_check
-OUT_DIR=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/chimera_check/FragGeneScanned
+IN_DIR=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/chimera_check
+OUT_DIR=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/remove_contaminants_blast/chimera_check/FragGeneScanned
 SCRIPT_DIR=./perl_scripts
 
 mkdir -p $OUT_DIR

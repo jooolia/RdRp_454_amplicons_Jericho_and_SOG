@@ -6,7 +6,7 @@
 ## Requires: Output from denoiser.py from qiime
 ## Generates: denoised_seqs.fasta
 
-In_dir=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse
+In_dir=../results/split_libraries_output/AllMids9August2012/Reverse
 Denoised_dir=$In_dir/titanium/denoised97
 
 

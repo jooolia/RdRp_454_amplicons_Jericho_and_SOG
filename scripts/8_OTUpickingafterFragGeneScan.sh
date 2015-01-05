@@ -6,13 +6,13 @@
 # Purpose of script= A for loop to do OTU picking at different identities. Will use this to determine which percentage will be best for use with viral sequences and using our control sequences. 
 
 #These are sequences that have been translated using FragGeneScan
-input=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/test_remove_contaminants_blast/chimera_check/FragGeneScanned/RdRP_aa_duplicates_removed24July2013_reverse.fasta
+input=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/test_remove_contaminants_blast/chimera_check/FragGeneScanned/RdRP_aa_duplicates_removed24July2013_reverse.fasta
 
 #These are the sequences that have been sorted by size
-outputsort=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/test_remove_contaminants_blast/chimera_check/FragGeneScanned/usearch/seqs_sorted_size.fasta
+outputsort=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/test_remove_contaminants_blast/chimera_check/FragGeneScanned/usearch/seqs_sorted_size.fasta
 
 #A place to put the output folders for this file. 
-OUT_DIR=/Data/Julia/qiime/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/test_remove_contaminants_blast/chimera_check/FragGeneScanned/usearch
+OUT_DIR=../results/split_libraries_output/AllMids9August2012/Reverse/titanium/denoised97/test_remove_contaminants_blast/chimera_check/FragGeneScanned/usearch
 
 usearch_dir=/home/julia/usearch
 usearch7=$usearch_dir/usearch7.0.1090_i86linux32
